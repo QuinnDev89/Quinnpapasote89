@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Quinnpapasote89 and I am a huge lover of coding
+- 👋 Hi, I’m @Quinn89 and I am a huge lover of coding
 - 👀 I’m interested in learning ReactJs, C# and other langueages
 - 🌱 I’m currently learning VueJs
 - 💞️ I’m looking to collaborate on everything, I would to love on any project that can build my knowledge
